@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+li{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+.header{
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: greenyellow;
+    height: 60px;
+}
+
+.nav__list{
+    width: 200px;
+}
+
+.nav__list{
+    display: flex;
+    justify-content: space-between;
+}
