@@ -21,7 +21,12 @@ a{
     background-color: greenyellow;
     height: 60px;
 }
-
+.logo__img{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background: green;
+}
 .nav__list{
     width: 200px;
 }
